@@ -50,7 +50,7 @@ The issue is taking the time to sort all these index cards! Keeping an *ever-evo
 
 Here's a gif showcasing how to get started.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1672001315305/1a213dcf-0e0c-4274-90cb-c8fc08e20a38.gif align="center")
+[![](https://i.imgur.com/A4TYAwh.gif align="center")](https://imgur.com/a/uvh9f4b)
 
 Let's get the elephant out of the room, it's **not** the prettiest. But it is remarkably simple to use. Here is a written outline of the steps you need to take to get started.
 
