@@ -22,13 +22,13 @@ Let's get into what these things are, and how you can benefit. Take a look at th
 
 ***Finding a baseline:***
 
-The *blue* line above is where most of us find ourselves with typical study methods. In short, if you were to study something once, within a week it's a complete coin-flip whether you'll remember it or not. Those odds get increasingly bleak every time the sun sets. So how do we prevent this? A good place to start is a study method known as **active recall**
+The *blue* line above is where most of us find ourselves with typical study methods. In short, if you were to study something once, within a week it's a complete coin-flip whether you'll remember it or not. Those odds get increasingly bleaker with every day that goes by. So how do we prevent this? A good place to start is a study method known as **active recall**
 
 ### Active recall:
 
 ***A step in the right direction*.**
 
-If you've ever used a flashcard, this concept should be familiar to you. The basic premise is that associating an answer with a question over time helps your brain get that connection to "*stick"* better. The **more** you practice associating an answer with a question, the **easier** it is to remember. Makes sense right? If we reference the graph of forgetting again, we'll find that each purple line is one session of active recall. Without recall, we are almost certain to forget everything within 5 weeks. With **a single** session **a week,** however, it's near-certain that we've retained that information. That's a huge upgrade from cramming for hours the night before a test isn't it?
+If you've ever used a flashcard, this concept should be familiar to you. The basic premise is that by associating an answer with a question, over time connections form in the brain between the two. The **more** you practice associating an answer with a question, the **easier** it is to remember. Makes sense right? If we reference the graph of forgetting again, we'll find that each purple line represents *one* session of active recall. Without recall, we are almost certain to forget everything within 5 weeks. With **a single** session **a week,** however, it's near-certain that we've retained that information. That's a huge upgrade from cramming for hours the night before a test isn't it?
 
 ### **Spaced-repetition:**
 
@@ -72,7 +72,7 @@ Let's get the elephant out of the room, it's **not** the prettiest. But it is re
     
 6. Write your answer in the bottom field.
     
-7. Click the **add** button at the bottom of said new window.
+7. Click the **add** button at the bottom of the new window.
     
 
 Congrats, you've added your first Anki card! Now how do we study that card?
