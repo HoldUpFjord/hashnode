@@ -1,6 +1,6 @@
 # The Trials and Tribulations of Tech and Self-Worth
 
-# I started this year not knowing how to write HTML:
+## I started this year not knowing how to write HTML:
 
 By the middle of January I thought I was a *wizard* for being able to write this:
 
@@ -78,7 +78,7 @@ From the beginning of this year, I had the mindset of keeping up with everyone I
 
 There is **no** quick path to a career in software development. There are faster and slower routes, but each one is arduous. Each one deserves respect, the same respect I needed to extend to myself.
 
-This journey will take time, and that's ok*.* As long as I can get up *tomorrow* and *still* work towards my **end goal.**
+This journey will take time, and that's ok\*.\* As long as I can get up *tomorrow* and *still* work towards my **end goal.**
 
 ---
 
