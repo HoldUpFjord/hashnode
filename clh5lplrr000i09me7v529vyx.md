@@ -1,5 +1,6 @@
 ---
 title: "Bubble-sorting:"
+seoDescription: "Teaching programming and Data Structures and Algorithm's. Learn trough brief and well written articles to help new developers and software engineers in Tech"
 datePublished: Tue May 02 2023 01:39:03 GMT+0000 (Coordinated Universal Time)
 cuid: clh5lplrr000i09me7v529vyx
 slug: bubble-sorting
