@@ -12,6 +12,8 @@ tags: algorithms, programming-blogs, javascript, web-development, typescript
 
 ## The Code:
 
+Queues are a simple, yet very effective algorithm to implement. Commonplace in technical interviews, knowing how to use one is critical:
+
 ---
 
 ```typescript
